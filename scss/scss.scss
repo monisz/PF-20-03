@@ -539,18 +539,19 @@ a .fas {
 
 @media (max-width: 400px) {
     .section-carrusel {
+        margin-top: 12vh;
         .section-carrusel-texto {
             .section-carrusel-titulo {
-                font-size: 1.8rem;
+                font-size: 2rem;
             }
         }
     }
     .section-venta {
         .section-venta-titulo {
-            font-size: 1rem;
+            font-size: 1.1rem;
         }
         .section-venta-parrafo {
-            font-size: 0.7rem;
+            font-size: 0.9rem;
         }
     }
     .galeria {

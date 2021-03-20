@@ -517,12 +517,14 @@ a .fas {
         width: 100%; } }
 
 @media (max-width: 400px) {
-  .section-carrusel .section-carrusel-texto .section-carrusel-titulo {
-    font-size: 1.8rem; }
+  .section-carrusel {
+    margin-top: 12vh; }
+    .section-carrusel .section-carrusel-texto .section-carrusel-titulo {
+      font-size: 2rem; }
   .section-venta .section-venta-titulo {
-    font-size: 1rem; }
+    font-size: 1.1rem; }
   .section-venta .section-venta-parrafo {
-    font-size: 0.7rem; }
+    font-size: 0.9rem; }
   .galeria li .boton img {
     width: 100%; } }
 
